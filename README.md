@@ -1,4 +1,4 @@
-# Docker Practice 100 🐳🔥
+# Docker Practice 100 🐳🔥 
 
 A structured, hands-on repository containing **100 days of Docker practice**. This project is designed to help you learn Docker from basics to advanced concepts through daily tasks, real-world scenarios, and practical implementations.
 
